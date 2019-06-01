@@ -1,4 +1,4 @@
-# Guess game
+# Guess game Modified readme
 import random
 
 guessNumber = (random.randint(1,50))
